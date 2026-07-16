@@ -1,5 +1,5 @@
 -- =============================================================================
--- File: 04_create_database_inventory.sql
+-- File: 02_create_database_inventory.sql
 -- Purpose: Create the DATABASE_INVENTORY table used by the sample APEX app.
 -- Run as: DB_INV_APP connected directly to KBPDB.
 -- Example:
