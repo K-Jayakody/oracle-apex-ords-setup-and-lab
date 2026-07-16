@@ -1,5 +1,5 @@
 -- =============================================================================
--- File: 03_create_application_schema.sql
+-- File: 01_create_application_schema.sql
 -- Purpose: Create the DB_INV_APP schema and grant the privileges used in the lab.
 -- Run as: SYSDBA
 -- Example:
