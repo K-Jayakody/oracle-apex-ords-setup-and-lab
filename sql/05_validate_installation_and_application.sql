@@ -1,10 +1,10 @@
 -- =============================================================================
--- File: 07_validate_installation_and_application.sql
+-- File: 05_validate_installation_and_application.sql
 -- Purpose: Validate the APEX installation and sample application database objects.
 -- Run as: SYSDBA
 -- Example:
 --   sqlplus / as sysdba
---   @sql/07_validate_installation_and_application.sql
+--   @sql/05_validate_installation_and_application.sql
 -- =============================================================================
 
 SET ECHO ON
