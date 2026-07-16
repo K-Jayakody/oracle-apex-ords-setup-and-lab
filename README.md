@@ -46,7 +46,7 @@ flowchart LR
 
 The complete procedure is available in:
 
-- [Setup Guide](setup-guide.md)
+- [Setup Guide](docs/setup-guide.md)
 
 ## Sample Application
 
