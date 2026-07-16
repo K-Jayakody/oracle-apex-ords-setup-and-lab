@@ -4,7 +4,7 @@
 -- Run as: DB_INV_APP connected directly to KBPDB.
 -- Example:
 --   sqlplus db_inv_app@KBPDB
---   @sql/04_create_database_inventory.sql
+--   @sql/02_create_database_inventory.sql
 --
 -- Note:
 --   This script is intended for an initial setup and will fail if the table
