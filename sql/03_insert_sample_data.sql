@@ -4,7 +4,7 @@
 -- Run as: DB_INV_APP connected directly to KBPDB.
 -- Example:
 --   sqlplus db_inv_app@KBPDB
---   @sql/05_insert_sample_data.sql
+--   @sql/03_insert_sample_data.sql
 --
 -- Note:
 --   Run this script once. Re-running it inserts additional rows because the
