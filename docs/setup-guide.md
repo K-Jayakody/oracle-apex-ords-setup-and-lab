@@ -25,9 +25,6 @@
 - [21. Add Dashboard Cards](#21-add-dashboard-cards)
 - [22. Test the Application](#22-test-the-application)
 - [23. Export the Application](#23-export-the-application)
-- [24. Validation Checklist](#24-validation-checklist)
-- [25. Suggested Screenshots](#25-suggested-screenshots)
-- [26. References](#26-references)
 
 ---
 
