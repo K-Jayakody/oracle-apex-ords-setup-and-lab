@@ -4,7 +4,7 @@
 -- Run as: SYSDBA
 -- Example:
 --   sqlplus / as sysdba
---   @sql/03_create_application_schema.sql
+--   @sql/01_create_application_schema.sql
 --
 -- Note:
 --   This script is intended for an initial setup. It will fail if DB_INV_APP
