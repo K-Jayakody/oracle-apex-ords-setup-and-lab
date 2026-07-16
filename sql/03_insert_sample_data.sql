@@ -1,5 +1,5 @@
 -- =============================================================================
--- File: 05_insert_sample_data.sql
+-- File: 03_insert_sample_data.sql
 -- Purpose: Insert the three sample rows used by the Database Inventory app.
 -- Run as: DB_INV_APP connected directly to KBPDB.
 -- Example:
