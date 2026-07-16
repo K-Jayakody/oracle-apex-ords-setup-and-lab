@@ -50,7 +50,6 @@ CREATE TABLE database_inventory (
                       DEFAULT SYSDATE
                       NOT NULL,
     notes             VARCHAR2(500),
-
     CONSTRAINT database_inventory_env_ck
         CHECK (
             environment IN (
@@ -60,7 +59,6 @@ CREATE TABLE database_inventory (
                 'PRODUCTION'
             )
         ),
-
     CONSTRAINT database_inventory_status_ck
         CHECK (
             status IN (
