@@ -1,5 +1,5 @@
 -- =============================================================================
--- File: 06_apex_page_queries.sql
+-- File: 04_apex_page_queries.sql
 -- Purpose: Store the SQL queries used by the APEX chart and dashboard cards.
 -- Run as: DB_INV_APP, or paste each query into the relevant APEX page region.
 -- =============================================================================
